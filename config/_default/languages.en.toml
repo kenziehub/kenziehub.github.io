@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Kenzie"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "My awesome website"
+dateFormat = "2 January 2006"
+
+  [params.author]
+  name = "Kenzie Ward"
+  image = "img/avatar.png"
+  headline = "UX/UI and print designer based in Vancouver."
+  bio = "Designer from New Zealand, currently studying at Simon Fraser University."
+
+    [[params.author.links]]
+    linkedin = "https://www.linkedin.com/in/kenziewardd/"
+
+    [[params.author.links]]
+    email = "mailto:mackenzie@wardwhanau.com"

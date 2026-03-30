@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kenziehub.github.io/sitemap.xml
