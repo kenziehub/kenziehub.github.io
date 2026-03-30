@@ -1,18 +1,8 @@
 ---
 title: "Buddy Challenge Feature Design"
-slug: "project-one"
 type: "project"
 date: 2026-03-29
-summary: "A student UX/UI case study for Buddy exploring a challenge-based feature to improve long-term budgeting engagement after onboarding."
-category: "UX/UI Design"
-subtitle: "Designing for long-term budgeting motivation"
 ---
-
-## Project Summary
-
-Buddy Challenge Feature Design was a student project created in collaboration with Jenna Emperador and Colvin Wong. Over three weeks, we explored how Buddy could better support users after onboarding by introducing a feature that makes budgeting feel more motivating, structured, and rewarding over time.
-
-The final concept was a new Challenges section designed to turn budgeting into a more engaging and goal-driven experience. By giving users short-term wins, clearer progress, and a stronger sense of momentum, the feature aims to help Buddy improve retention beyond initial account setup.
 
 ## Context
 
@@ -21,13 +11,16 @@ The final concept was a new Challenges section designed to turn budgeting into a
 - Role: UX Researcher, UX Designer, Mobile App Designer
 - Tools: Figma
 
-## The Challenge
-
-Buddy has a post-onboarding retention problem: users are willing to try the app and connect their financial accounts, but many stop engaging because they do not feel motivated to continue budgeting. The experience does not yet create enough ongoing value, clarity, or encouragement to turn initial setup into a lasting habit.
-
 ## Brief
 
 Our challenge was to design a new feature for Buddy that would introduce a fresh persona-driven experience and create stronger long-term motivation for users. 
+
+## Problem
+
+Buddy has a post-onboarding retention problem: users are willing to try the app and connect their financial accounts, but many stop engaging because they do not feel motivated to continue budgeting. The experience does not yet create enough ongoing value, clarity, or encouragement to turn initial setup into a lasting habit.
+
+## Solution
+We introduced a Challenges section that motivates users to keep budgeting through small achievable goals, progress tracking, and a stronger sense of accomplishment. This helps Buddy create ongoing value beyond account connection and supports the habit building needed for long term retention.
 
 ## Process
 
@@ -37,6 +30,7 @@ Through competitor analysis and intended user interviews, we found that the bigg
 
 Even after setup, users often lacked a clear sense of progress, motivation, or long-term value. Budgeting started to feel like a chore rather than a helpful habit, which made it easy to disengage. This showed that Buddy needed to create more ongoing encouragement and a clearer feeling of achievement if it wanted to sustain retention.
 
+![Buddy research and process visual](/images/buddy-research.png)
 
 ## End Result
 - Challenge-based budgeting goals
@@ -44,5 +38,4 @@ Even after setup, users often lacked a clear sense of progress, motivation, or l
 - Short-term rewards and motivation
 - A clearer sense of momentum after onboarding
 
-
-photos 
+![Buddy challenge feature final screens](/images/buddy-final.png)
