@@ -7,7 +7,7 @@ title = "Kenzie"
 displayName = "EN"
 isoCode = "en"
 rtl = false
-description = "My awesome website"
+description = "Portfolio site for Kenzie Ward."
 dateFormat = "2 January 2006"
 
   [params.author]

@@ -3,67 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://kenziehub.github.io/projects/project-one/</loc>
+    <loc>http://172.16.125.213:1313/projects/project-one/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kenziehub.github.io/</loc>
+    <loc>http://172.16.125.213:1313/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kenziehub.github.io/projects/</loc>
+    <loc>http://172.16.125.213:1313/projects/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kenziehub.github.io/projects/project-two/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <loc>http://172.16.125.213:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kenziehub.github.io/projects/project-three/</loc>
-    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <loc>http://172.16.125.213:1313/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kenziehub.github.io/about/</loc>
+    <loc>http://172.16.125.213:1313/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kenziehub.github.io/authors/</loc>
+    <loc>http://172.16.125.213:1313/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kenziehub.github.io/categories/</loc>
+    <loc>http://172.16.125.213:1313/resume/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kenziehub.github.io/contact/</loc>
+    <loc>http://172.16.125.213:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kenziehub.github.io/resume/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://kenziehub.github.io/series/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://kenziehub.github.io/tags/</loc>
+    <loc>http://172.16.125.213:1313/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

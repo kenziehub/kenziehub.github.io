@@ -15,6 +15,4 @@ sharingLinks : false
 
 ---
 
-A selection of design projects and case studies.
-
-Each card opens a full project page with space for your process, visuals, and outcomes.
+A selection of design work and case study material.
